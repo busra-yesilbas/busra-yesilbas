@@ -51,5 +51,5 @@
 ---
 
 <p align="center">
-  🚀 Always open to exciting global opportunities 🚀
+  🚀 Always open to exciting opportunities 🚀
 </p>
