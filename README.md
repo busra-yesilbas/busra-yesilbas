@@ -16,10 +16,10 @@
 
 ## 🌸 About Me
 
-✨ 7+ years of experience in **Machine Learning, AI & Backend Engineering**  
-🧩 Specialized in **LLM systems, RAG architectures & production NLP**  
-⚙️ Strong backend foundation with **Spring Boot, REST APIs & microservices**  
-☁️ Experienced in **Azure & AWS cloud-native deployments**  
+✨ 7+ years of experience in Machine Learning, AI & Backend Engineering  
+🧩 Specialized in LLM systems, RAG architectures & production NLP  
+⚙️ Strong backend foundation with Spring Boot, REST APIs & Microservices  
+☁️ Experienced in Azure & AWS cloud-native deployments  
 📈 Focused on building reliable systems with measurable business impact  
 
 ---
