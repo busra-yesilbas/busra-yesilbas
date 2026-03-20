@@ -3,37 +3,39 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=2500&pause=1200&color=36BCF7&center=true&vCenter=true&width=450&lines=Hello!+👋;I+am+Busra+Yesilbas" />
 </p>
 
-<h3 align="center">Senior AI/Machine Learning Engineer</h3>
+<h3 align="center">Senior Software Engineer | AI & NLP Systems</h3>
 
 
 <p align="center">
-🧠 Building LLM-powered AI systems at scale <br>
-☁️ Developing cloud-native ML platforms and APIs <br>
-🚀 Delivering reliable RAG solutions from PoC to production
+🧠 Building enterprise NLP & LLM-powered systems <br>
+☁️ Developing scalable backend architectures <br>
+🚀 Delivering production-ready, secure, and high-performance solutions
 </p>
 
 ---
 
 ## 🌸 About Me
 
-✨ 7+ years of experience in Machine Learning, AI & Backend Engineering  
-🧩 Specialized in LLM systems, RAG architectures & production NLP  
-⚙️ Strong backend foundation with Spring Boot, REST APIs & Microservices  
-☁️ Experienced in Azure & AWS cloud-native deployments  
-📈 Focused on building reliable systems with measurable business impact  
+7+ years of experience in Software Engineering, AI & Backend Development  
+Specialized in NLP systems, LLM integrations & production-grade AI services  
+Strong expertise in Java (Spring Boot), Microservices & Object-Oriented Design  
+Experienced in cloud-native architectures (Azure & AWS)  
+Focused on secure, scalable, and enterprise-compliant system design  
+Passionate about building high-impact AI solutions in complex domains  
 
 ---
 
 ## 💡 What I Love Working On
 
-🔮 Large Language Models & Generative AI  
-🔎 Retrieval-Augmented Generation (RAG) systems  
-📊 Applied Machine Learning & Data Science  
-⚡ FastAPI & scalable backend services  
-🐳 Dockerized ML & MLOps workflows  
-☁️ Cloud-native AI infrastructure (Azure / AWS)  
-📈 End-to-end ML lifecycle (training → deployment → monitoring)  
-🧪 Model evaluation, reliability & performance optimization  
+NLP, Large Language Models & Generative AI  
+Retrieval-Augmented Generation (RAG) & vector-based systems  
+AI applications in enterprise & fintech environments  
+Java (Spring Boot), REST/SOAP APIs & Microservices architecture  
+Docker, CI/CD pipelines & cloud-native deployments  
+ML pipelines (data processing → model serving → monitoring)  
+NoSQL & distributed data systems (Redis, MongoDB, etc.)  
+Secure software development & high-availability systems  
+Scalable backend systems with low latency & high throughput  
 
 ---
 
@@ -51,5 +53,5 @@
 ---
 
 <p align="center">
-  🚀 Always open to exciting global opportunities 🚀
+  🚀 Open to impactful roles in enterprise AI & NLP systems 🚀
 </p>
