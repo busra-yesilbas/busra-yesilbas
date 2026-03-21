@@ -32,7 +32,7 @@ AI applications in enterprise & fintech environments
 Java (Spring Boot), REST/SOAP APIs & Microservices architecture  
 Docker, CI/CD pipelines & cloud-native deployments  
 ML pipelines (data processing → model serving → monitoring)  
-NoSQL & distributed data systems (Redis, MongoDB, etc.)  
+SQL, NoSQL & distributed data systems (Redis, MongoDB, etc.)  
 Secure software development & high-availability systems  
 Scalable backend systems with low latency & high throughput  
 
