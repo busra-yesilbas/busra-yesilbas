@@ -7,9 +7,8 @@
 
 
 <p align="center">
-🧠 Building enterprise NLP & LLM-powered systems <br>
+🧠 Building enterprise AI, NLP & LLM-powered systems <br>
 ☁️ Developing scalable backend architectures <br>
-🚀 Delivering production-ready, secure, and high-performance solutions
 </p>
 
 ---
@@ -51,7 +50,3 @@ Scalable backend systems with low latency & high throughput
 </p>
 
 ---
-
-<p align="center">
-  🚀 Open to impactful roles in enterprise AI & NLP systems 🚀
-</p>
