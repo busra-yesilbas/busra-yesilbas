@@ -26,7 +26,7 @@
 ## 💡 Technology Stack  
 
 **AI / ML:** NLP, LLM, RAG, Vector Databases, Data Processing, ML Pipelines  
-**Backend:** Java, Python, Spring Boot, REST/SOAP APIs, Microservices architecture
+**Backend:** Java, Python, Spring Boot, REST/SOAP APIs, Microservices architecture   
 **Cloud & DevOps:** Docker, CI/CD, Azure, AWS  
 **Databases:** SQL, PostgreSQL, MongoDB, Redis  
 **Architecture:** Scalable Systems, High Availability, Secure Systems
