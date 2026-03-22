@@ -13,28 +13,23 @@
 
 ---
 
-## 🌸 About Me
+## 📌 About Me
 
-7+ years of experience in Software Engineering, AI & Backend Development  
-Specialized in NLP systems, LLM integrations & production-grade AI services  
-Strong expertise in Java (Spring Boot), Microservices & Object-Oriented Design  
-Experienced in cloud-native architectures (Azure & AWS)  
-Focused on secure, scalable, and enterprise-compliant system design  
-Passionate about building high-impact AI solutions in complex domains  
+- 7+ years in Software Engineering, AI & Backend Development
+- Specialized in NLP, LLM integrations & production-grade AI systems
+- Strong background in Java (Spring Boot), Python, and Microservices
+- Experience with Azure & AWS cloud-native architectures
+- Passionate about building high-impact AI solutions in complex domains  
 
 ---
 
-## 💡 What I Love Working On
+## 💡 Technology Stack  
 
-NLP, Large Language Models & Generative AI  
-Retrieval-Augmented Generation (RAG) & vector-based systems  
-AI applications in enterprise & fintech environments  
-Java (Spring Boot), REST/SOAP APIs & Microservices architecture  
-Docker, CI/CD pipelines & cloud-native deployments  
-ML pipelines (data processing → model serving → monitoring)  
-SQL, NoSQL & distributed data systems (Redis, MongoDB, etc.)  
-Secure software development & high-availability systems  
-Scalable backend systems with low latency & high throughput  
+**AI / ML:** NLP, LLM, RAG, Vector Databases, Data Processing, ML Pipelines  
+**Backend:** Java, Python, Spring Boot, REST/SOAP APIs, Microservices architecture
+**Cloud & DevOps:** Docker, CI/CD, Azure, AWS  
+**Databases:** SQL, PostgreSQL, MongoDB, Redis  
+**Architecture:** Scalable Systems, High Availability, Secure Systems
 
 ---
 
